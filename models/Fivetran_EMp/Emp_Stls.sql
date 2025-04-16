@@ -1,0 +1,1 @@
+select * from MYDB.MYSCHEMA.EMPLOYEE
